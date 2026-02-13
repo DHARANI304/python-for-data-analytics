@@ -36,8 +36,8 @@ c=a+b
 print(c)
 
 #Tuple slicing
- Tup = (10,20,30,40,50,60,70,80,90,100)
- b = Tup[2:6]
- print(b)
- c = Tup[::-1]
- print(c)
+Tup = (10,20,30,40,50,60,70,80,90,100)
+b = Tup[2:6]
+print(b)
+c = Tup[::-1]
+print(c)
