@@ -57,3 +57,88 @@ Day 6 – Python Lists & Operations
 *Learned list replication
 *Understood shallow copy vs slicing copy
 *Verified object identity using id()
+
+Day 7 – List Manipulation & Shallow Copy
+* Practiced advanced list slicing  
+* Inserted and extended elements in lists  
+* Deleted portions of lists using slicing and del  
+* Used pop() to remove elements  
+* Added multiple elements in the middle of a list  
+* Replicated lists using multiplication operator  
+* Copied lists using copy() and slicing  
+* Compared object identities using id()  
+* Understood shallow copy behavior with nested lists  
+
+Day 8 – List Comprehension & Conditional Logic
+
+* Learned list comprehension (important concept)  
+* Generated cube of numbers using:  
+  * Traditional for loop  
+  * Single-line list comprehension  
+* Separated even and odd numbers using loops  
+* Used conditional list comprehension  
+* Applied inline if-else inside list comprehension  
+* Strengthened logic building using conditions  
+
+Day 9 – List Traversal & Built-in Functions
+
+* Accessed list elements using for loop  
+* Used range(len()) to access index and value  
+* Used enumerate() to get index and value together  
+* Traversed nested lists  
+* Reversed lists using slicing  
+* Sorted lists using sorted()  
+* Sorted in descending order  
+* Performed membership checks using in keyword  
+
+ Day 10 – Tuples & Tuple Operations
+
+* Created tuples with single and multiple values  
+* Practiced tuple unpacking  
+* Used placeholder variable (_) during unpacking  
+* Accessed tuple elements using indexing  
+* Used negative indexing  
+* Accessed nested tuple elements  
+* Iterated through tuples using loops  
+* Used enumerate() with tuples  
+* Performed tuple concatenation  
+* Applied tuple slicing  
+* Reversed tuples using slicing  
+
+Day 11 – Sets & Set Operations
+
+*Created sets with unique elements
+*Understood that sets do not allow duplicate values
+*Performed set union using | and union()
+*Performed set intersection using & and intersection()
+*Used difference() to find elements present in one set but not the other
+*Used symmetric difference ^ to get unique elements from both sets
+*Added elements to a set using add()
+*Removed elements using remove()
+*Used discard() to remove elements safely (without error if not present)
+*Iterated through sets using loops
+*Generated new sets using set comprehension
+*Applied conditional logic inside set comprehension
+*Calculated squares and cubes based on even/odd conditions
+*Found common elements between two sets and performed operations on them
+
+Day 12 – Dictionaries & Dictionary Operations
+
+*Created dictionaries with key–value pairs
+*Accessed dictionary values using keys
+*Used get() method to access values safely
+*Added new key–value pairs
+*Updated existing dictionary values
+*Removed elements using pop()
+*Used popitem() to remove the last inserted pair
+*Used del keyword to delete specific keys
+*Retrieved all keys using keys()
+*Retrieved all values using values()
+*Retrieved key–value pairs using items()
+*Iterated through dictionaries using loops
+*Used dictionary comprehension
+*Created dictionaries from lists using zip()
+*Checked if a key exists in a dictionary
+*Nested dictionaries and accessed nested values
+
+ 
