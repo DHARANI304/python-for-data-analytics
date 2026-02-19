@@ -141,4 +141,29 @@ Day 12 – Dictionaries & Dictionary Operations
 *Checked if a key exists in a dictionary
 *Nested dictionaries and accessed nested values
 
- 
+ Day 13 – Zip Function, Built-in Functions & Strings
+
+*Used zip() function to combine multiple iterables
+*Created a dictionary using dict(zip(keys, values))
+*Iterated over zipped objects using loops
+*Practiced all() function to check if all elements are True
+*Practiced any() function to check if at least one element is True
+*Worked with different ways of creating strings
+*Used single quotes, double quotes, and triple quotes
+*Checked memory reference using id() function
+*Observed string immutability behavior
+*Accessed individual string characters using indexing
+*Performed string formatting using format() method
+
+Day 14 – String Methods & Operations
+
+*Practiced different string case conversion methods like upper(), lower(), title(), and capitalize()
+*Used searching methods like find(), index(), and count()
+*Checked string properties using isalpha(), isdigit(), isalnum(), and isspace()
+*Verified starting and ending characters using startswith() and endswith()
+*Performed string replacement using replace() method
+*Split strings into lists using split() method
+*Joined list elements into strings using join() method
+*Removed extra spaces using strip(), lstrip(), and rstrip()
+*Practiced combining multiple string methods together
+*Improved understanding of real-time string manipulation techniques
