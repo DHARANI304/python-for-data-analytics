@@ -35,3 +35,5 @@ print(res1)
 #Membership check:
 a = [10,20,30,40.50]
 print(20 in a)
+
+

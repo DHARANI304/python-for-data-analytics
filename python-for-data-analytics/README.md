@@ -167,3 +167,41 @@ Day 14 – String Methods & Operations
 *Removed extra spaces using strip(), lstrip(), and rstrip()
 *Practiced combining multiple string methods together
 *Improved understanding of real-time string manipulation techniques
+
+Day 15 – Regular Expressions (RegEx)
+Imported and used Python’s built-in re module
+*Used re.match() to check patterns at the beginning of a string
+*Used re.search() to find patterns anywhere in a string
+*Used re.findall() to extract all matching patterns
+*Used re.sub() to replace patterns in a string
+*Learned special characters in RegEx:
+    . (any character)
+    ^ (starts with)
+    $ (ends with)
+    *, +, ? (quantifiers)
+*Worked with character classes:
+    [a-z], [A-Z]
+    [0-9]
+    \d, \w, \s
+*Practiced validating:
+  *Email patterns
+  *Phone numbers
+  *Numeric-only strings
+  *Understood grouping using parentheses ()
+  *Used raw strings r"" for writing patterns properly
+
+Day 16 – Regular Expressions (Advanced Practice)
+
+*Revised Regular Expression concepts
+*Imported and used the re module
+*Practiced match() to check patterns at the beginning
+*Used search() to find patterns anywhere in the string
+*Used findall() to extract multiple matches
+*Replaced text patterns using sub()
+*Worked with special symbols like ., ^, $, *, +, ?
+*Used character classes like [a-z], [A-Z], [0-9]
+*Practiced shorthand patterns like \d, \w, \s
+*Validated email and numeric formats
+*Used grouping with parentheses ()
+*Applied raw strings r"" for writing regex patterns correctly
+*Practiced real-time input validation examples
