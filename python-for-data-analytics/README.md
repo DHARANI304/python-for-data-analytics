@@ -205,3 +205,21 @@ Day 16 – Regular Expressions (Advanced Practice)
 *Used grouping with parentheses ()
 *Applied raw strings r"" for writing regex patterns correctly
 *Practiced real-time input validation examples
+
+Day 17 – NumPy Introduction & Array Basics
+
+NumPy
+
+*Imported NumPy library using import numpy as np
+*Created NumPy arrays using array()
+*Converted Python lists into NumPy arrays
+*Checked array type using type()
+*Checked array dimensions using ndim
+*Checked shape of array using shape
+*Checked size of array using size
+*Accessed elements using indexing
+*Performed array slicing
+*Created 1D and 2D arrays
+*Understood difference between Python lists and NumPy arrays
+*Performed basic arithmetic operations on arrays
+*Observed vectorized operations in NumPy
