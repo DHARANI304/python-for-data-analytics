@@ -223,3 +223,40 @@ NumPy
 *Understood difference between Python lists and NumPy arrays
 *Performed basic arithmetic operations on arrays
 *Observed vectorized operations in NumPy
+
+Day 18 – NumPy Introduction & Array Basics
+NumPy
+What I Worked On
+*Imported NumPy using import numpy as np
+*Created arrays from Python lists
+*Created 1D and 2D arrays
+*Checked array type using type()
+*Checked dimensions using ndim
+*Checked shape using shape
+*Checked total elements using size
+*Understood difference between list and NumPy array
+*Performed basic arithmetic operations on arrays
+*Observed vectorized operations.
+
+Day 19 – Indexing, Slicing & Array Operations
+What I Worked On
+*Accessed elements using indexing
+*Used slicing on 1D arrays
+*Accessed rows and columns in 2D arrays
+*Modified array elements
+*Performed element-wise operations
+*Applied comparison operations
+*Used conditional selection on arrays
+*Explored broadcasting concept
+*Performed scalar operations on arrays
+
+Day 20 – Advanced NumPy Concepts
+What I Worked On
+*Reshaped arrays using reshape()
+*Flattened arrays
+*Generated arrays using zeros(), ones(), arange()
+*Used linspace() for equal intervals
+*Applied aggregation functions like sum(), mean(), max(), min()
+*Performed axis-based operations
+*Generated random numbers using random module
+*Understood importance of NumPy in Data Analytics
