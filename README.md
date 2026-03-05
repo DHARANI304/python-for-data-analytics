@@ -98,7 +98,7 @@ Through this structured learning journey, I aim to:
 
 ---
 
-#  eekly Plan (Analytics Phase)
+#  weekly Plan (Analytics Phase)
 
 Week 1 → NumPy
 Week 2 → Pandas
