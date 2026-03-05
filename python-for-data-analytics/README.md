@@ -260,3 +260,33 @@ What I Worked On
 *Performed axis-based operations
 *Generated random numbers using random module
 *Understood importance of NumPy in Data Analytics
+
+Day 21– NumPy Introduction & Array Basics 
+
+NumPy
+
+*Imported NumPy library using import numpy as np
+*Created NumPy arrays from Python lists using array()
+*Created one-dimensional arrays
+*Created two-dimensional arrays
+*Checked array data type using type()
+*Checked number of dimensions using ndim
+*Checked array shape using shape
+*Checked total number of elements using size
+*Performed basic arithmetic operations on arrays
+*Observed vectorized operations in NumPy
+*Understood difference between Python lists and NumPy arrays
+
+Day 18 – NumPy Indexing, Slicing & Operations 
+
+NumPy
+
+*Accessed array elements using indexing
+*Used slicing to extract portions of arrays
+*Accessed rows and columns in 2D arrays
+*Modified array elements
+*Performed element-wise arithmetic operations
+*Applied comparison operations on arrays
+*Used conditional selection on arrays
+*Performed scalar operations on arrays
+*Explored broadcasting behavior in NumPy
