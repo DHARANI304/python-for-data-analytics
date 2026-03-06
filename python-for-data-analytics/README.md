@@ -277,16 +277,18 @@ NumPy
 *Observed vectorized operations in NumPy
 *Understood difference between Python lists and NumPy arrays
 
-Day 18 – NumPy Indexing, Slicing & Operations 
+Day 22 – NumPy Indexing, Slicing & Operations
 
 NumPy
 
+What I Worked On
+
 *Accessed array elements using indexing
-*Used slicing to extract portions of arrays
+*Extracted subsets of arrays using slicing
 *Accessed rows and columns in 2D arrays
-*Modified array elements
-*Performed element-wise arithmetic operations
-*Applied comparison operations on arrays
-*Used conditional selection on arrays
-*Performed scalar operations on arrays
+*Modified array elements using index positions
+*Performed element-wise arithmetic operations on arrays
+*Applied comparison operations on array elements
+*Used conditional filtering to select specific values
+*Performed scalar operations on entire arrays
 *Explored broadcasting behavior in NumPy
