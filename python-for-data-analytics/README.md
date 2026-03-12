@@ -292,3 +292,57 @@ What I Worked On
 *Used conditional filtering to select specific values
 *Performed scalar operations on entire arrays
 *Explored broadcasting behavior in NumPy
+
+Day 23 – Regular Expressions (RegEx)
+
+*Revised Regular Expression concepts
+*Imported and used the re module
+*Practiced match() to check patterns at the beginning of a string
+*Used search() to find patterns anywhere in the string
+*Used findall() to extract all matching patterns
+*Replaced text patterns using sub()
+*Worked with special characters like ., ^, $, *, +, ?
+*Used character classes like [a-z], [A-Z], [0-9]
+*Practiced shorthand patterns like \d, \w, and \s
+*Validated patterns like email and numeric values
+
+Day 24 – NumPy Introduction & Array Basics
+
+NumPy
+
+*Imported NumPy using import numpy as np
+*Created NumPy arrays from Python lists using array()
+*Created 1D and 2D arrays
+*Checked array type using type()
+*Checked array dimensions using ndim
+*Checked array shape using shape
+*Checked total elements using size
+*Performed basic arithmetic operations on arrays
+*Observed vectorized operations in NumPy
+*Understood the difference between Python lists and NumPy arrays
+
+Day 25 – NumPy Indexing & Slicing
+
+NumPy
+
+*Accessed elements in arrays using indexing
+*Used slicing to extract portions of arrays
+*Accessed rows and columns in 2D arrays
+*Modified array values using index positions
+*Performed element-wise arithmetic operations
+*Applied comparison operations on arrays
+*Used conditional filtering on array elements
+*Performed scalar operations on arrays
+
+Day 26 – NumPy Advanced Array Operations
+
+NumPy
+
+*Created arrays using zeros() and ones()
+*Generated sequences using arange()
+*Generated evenly spaced values using linspace()
+*Reshaped arrays using reshape()
+*Flattened arrays
+*Applied aggregation functions like sum(), mean(), max(), and min()
+*Performed axis-based operations
+*Explored NumPy random module for generating random numbers
