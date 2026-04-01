@@ -346,3 +346,49 @@ NumPy
 *Applied aggregation functions like sum(), mean(), max(), and min()
 *Performed axis-based operations
 *Explored NumPy random module for generating random numbers
+
+day 27
+*Imported NumPy using import numpy as np
+*Created arrays from Python lists
+*Created 1D and 2D arrays
+*Checked array properties like ndim, shape, and size
+*Understood difference between Python lists and NumPy arrays
+*Performed basic arithmetic operations on arrays
+*Observed vectorized operations
+
+day 28
+*Accessed array elements using indexing
+*Used slicing to extract portions of arrays
+*Worked with rows and columns in 2D arrays
+*Modified array values using indexing
+*Performed element-wise operations
+*Applied comparison operations
+*Used conditional filtering on arrays
+
+day 29
+*Created arrays using zeros(), ones(), and arange()
+*Generated evenly spaced values using linspace()
+*Reshaped arrays using reshape()
+*Flattened arrays
+*Applied aggregation functions like sum(), mean(), max(), min()
+*Performed axis-based operations
+*Generated random numbers using NumPy
+
+finished learning numpy
+
+matplotlib
+Matplotlib is a powerful data visualization library in Python used to create graphs and plots for analyzing data. It helps in converting numerical data into visual formats like charts, making it easier to understand patterns, trends, and insights.
+
+Matplotlib is widely used in Data Analytics, Data Science, and Machine Learning for presenting data in a clear and meaningful way.
+
+day 1
+*Imported matplotlib using import matplotlib.pyplot as plt
+*Created basic line plots
+*Plotted multiple data points on graphs
+*Created bar charts
+*Created pie charts
+*Plotted histograms
+*Created scatter plots
+*Added titles, labels, and legends to graphs
+*Customized graph appearance
+
